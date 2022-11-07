@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Localidades
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ s\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_disponibles
+comment1.target=Localidades(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ s\r\n
+comment2.params=p_disponibles
+comment2.target=void\ setDisponibles(int)
+comment3.params=
+comment3.target=int\ getDisponibles()
+numComments=4
