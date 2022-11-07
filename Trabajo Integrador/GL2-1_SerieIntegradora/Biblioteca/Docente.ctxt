@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Docente
+comment0.text=\r\n\ @author\ (Enzo\ Romero)\ \r\n\ @version\ (27/10/2021)\r\n
+comment1.params=p_dniSocio\ p_nombre\ p_area
+comment1.target=Docente(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ Docente\r\n
+comment2.params=p_area
+comment2.target=void\ setArea(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getArea()
+comment4.params=
+comment4.target=boolean\ esResponsable()
+comment4.text=\r\n\ Este\ metodo\ retorna\ true\ si\ el\ Docente\ nunca\ tuvo\ ni\ tiene\ un\ prestamo\ vencido\r\n
+comment5.params=p_dias
+comment5.target=void\ agregarDiasDePrestamo(int)
+comment5.text=\r\n\ Este\ metodo\ adiciona\ dias\ de\ prestamo\ al\ Docente,depende\ de\ si\ es\ responsable\ o\ no\r\n
+comment6.params=
+comment6.target=java.lang.String\ soyDeLaClase()
+comment6.text=\r\n\ Este\ metodo\ retorna\ un\ String\ "Docente"\r\n
+numComments=7

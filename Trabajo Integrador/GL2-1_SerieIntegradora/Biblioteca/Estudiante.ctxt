@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment0.text=\r\n\ @author\ (Enzo\ Romero)\ \r\n\ @version\ (27/10/2021)\r\n
+comment1.params=p_dniSocio\ p_nombre\ p_carrera
+comment1.target=Estudiante(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ Estudiante\r\n
+comment2.params=p_carrera
+comment2.target=void\ setCarrera(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCarrera()
+comment4.params=
+comment4.target=boolean\ puedePedir()
+comment4.text=\r\n\ Este\ metodo\ retorna\ true\ si\ el\ estudiante\ no\ tiene\ ningun\ prestamo\ vencido\ y\ si\ no\ tiene\ mas\ de\ 3\ libros\ prestados\r\n
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+comment5.text=\r\n\ Este\ metodo\ retorna\ un\ String\ "Estudiante"\ \r\n
+numComments=6

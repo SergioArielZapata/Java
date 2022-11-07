@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GestionBiblioteca
+comment0.text=\r\n\ Clase\ GestionBiblioteca\ para\ promar\ los\ m\u00E9todos\ de\ las\ calses\ asociadas.\r\n\ \r\n\ @author\ (Ramirez\ Alfredo\ Agustin)\ \r\n\ @author\ (Zapata\ Ariel\ Sergio)\ \r\n\ @author\ (Solalinde\ Ciro\ Damian)\ \r\n\ @author\ (Ramirez\ Joaquin)\ \r\n\ @author\ (Romero\ Ruiz\ Diaz\ Enzo\ Jose)\ \r\n\ @author\ (Vendler\ Ramon\ De\ Jesus)\ \r\n\ @version(2021/11/5)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ iniciar\ la\ ejecuci\u00F3n\ del\ programa\r\n\ \u00C9ste\ es\ el\ m\u00E9todo\ principal\ del\ proyecto\r\n\ @param\ args[]\ es\ un\ arreglo\ \r\n\ @return\ void\r\n
+numComments=2
