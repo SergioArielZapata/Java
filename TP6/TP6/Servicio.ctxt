@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Servicio
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ N\u00B0\ 9\r\n\ \r\n\ @author\ (Sergio\ Ariel\ Zapata)\r\n\ @version\ (6.9)\r\n
+comment1.params=p_descripcion\ p_precio
+comment1.target=Servicio(java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ Servicio\r\n
+comment2.params=p_descripcion
+comment2.target=void\ setDescripcion(java.lang.String)
+comment3.params=p_precio
+comment3.target=void\ setPrecio(double)
+comment4.params=
+comment4.target=java.lang.String\ getDescripcion()
+comment5.params=
+comment5.target=double\ getPrecio()
+numComments=6

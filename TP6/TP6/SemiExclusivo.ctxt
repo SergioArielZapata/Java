@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SemiExclusivo
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ N\u00B0\ 5\r\n\ \r\n\ @author\ (Sergio\ Ariel\ Zapata)\r\n\ @version\ (6.5)\r\n
+comment1.params=p_nombreCargo\ p_sueldo\ p_anio\ p_horas\ p_horasInvestigacion
+comment1.target=SemiExclusivo(java.lang.String,\ double,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ SemiExclusivo\r\n
+comment2.params=p_horasInvestigacion
+comment2.target=void\ setHorasDeInvestigacion(int)
+comment3.params=
+comment3.target=int\ getHorasDeInvestigacion()
+comment4.params=
+comment4.target=void\ mosrarCargo()
+comment4.text=\r\n\ Meodo\ que\ redefine\ el\ metodo\ mostrar\ de\ la\ super\ clase\ y\ muestra\ mas\ datos\r\n
+numComments=5

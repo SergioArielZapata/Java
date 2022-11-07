@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Visitante
+comment1.params=p_nombre\ p_fecha
+comment1.target=Visitante(java.lang.String,\ java.util.Calendar)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ Visitante\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=p_fecha
+comment3.target=void\ setFechaVisita(java.util.Calendar)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=java.util.Calendar\ getFechaVisita()
+comment6.params=
+comment6.target=void\ mostrar()
+comment6.text=\r\n\ Metodo\ que\ devuelve\ el\ formato\ de\ impresion\ que\ depende\ del\ visitante\r\n
+comment7.params=
+comment7.target=double\ entrada()
+comment7.text=\r\n\ Metodo\ que\ devuelve\ el\ valor\ de\ la\ entrada\ segun\ el\ visitante\r\n
+comment8.params=p_fecha\ p_visitante
+comment8.target=void\ listarPorFecha(java.util.Calendar,\ java.lang.String)
+comment8.text=\r\n\ Metodo\ que\ devuelve\ un\ listado\ en\ una\ fecha\ particular\ y\ por\ visitante\ paricular\r\n\ permite\ listar\ visitante\ y\ delegaciones\ \r\n
+comment9.params=
+comment9.target=java.lang.String\ tipoVisitante()
+comment9.text=\r\n\ Metodo\ que\ determina\ el\ tipo\ de\ visitante,\ cada\ clase\ retorna\ una\ cadena\r\n\ indicando\ el\ tipo\ de\ visitante\r\n
+numComments=10

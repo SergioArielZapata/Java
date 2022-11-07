@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Zoologico
+comment1.params=p_nombre
+comment1.target=Zoologico(java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ Zoologico\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=p_visitantes
+comment3.target=void\ setVisitantes(java.util.ArrayList)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=java.util.ArrayList\ getVisitantes()
+comment6.params=p_visitante
+comment6.target=void\ nuevoVisitante(Visitante)
+comment6.text=\r\n\ Metodo\ que\ permite\ agregar\ visitante\r\n\ @param\ p_visitante\r\n
+comment7.params=p_fecha\ p_tipoVisitante
+comment7.target=void\ listaTipoVisitantePorFecha(java.util.Calendar,\ java.lang.String)
+comment7.text=\r\n\ Metodo\ que\ lista\ todos\ los\ tipos\ de\ visitantes\r\n
+comment8.params=p_fecha
+comment8.target=void\ listaVisitantePorFecha(java.util.Calendar)
+comment8.text=\r\n\ Metodo\ permite\ proveer\ listados\ de\ visitantes\ en\ una\ fecha\ en\ particular\r\n
+comment9.params=p_fechaDesde\ p_fechaHasta
+comment9.target=double\ recaudacion(java.util.Calendar,\ java.util.Calendar)
+comment9.text=\r\n\ Metodo\ que\ calcula\ la\ recaudacion\ en\ un\ rango\ de\ fechas\ determinado\r\n\ @param\ p_fechaDesde,\ p_fechaHasta\r\n\ @return\ retorna\ un\ simbolo\ del\ tipo\ double\r\n
+numComments=10
