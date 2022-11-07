@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Localidad
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 3\ -\ Ejercicio\ N\u00B0\ 8\r\n\ Trabajo\ Practico\ N\u00B0\ 5\ -\ Ejercicio\ N\u00B0\ 3\r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (3.8.5.3)\r\n
+comment1.params=p_nombre\ p_provincia
+comment1.target=Localidad(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Localidad\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=p_provincia
+comment3.target=void\ setProvincia(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=java.lang.String\ getProvincia()
+comment6.params=
+comment6.target=void\ mostrar()
+comment6.text=\r\n\ Metodo\ que\ muestra\ salida\ Impresa\ por\ pantalla\r\n
+numComments=7
