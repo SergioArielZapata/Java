@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fundacion
+comment1.params=p_evento\ p_persona
+comment1.target=void\ imprimirInvitacion(Evento,\ Persona)
+comment1.text=\r\n\ Metodo\ que\ recibe\ datos\ para\ imprimir\ invitacion\r\n\ @param\ Recibed\ datos\ de\ la\ clase\ Administracion,\ y\ contene\ datos\ de\ la\ clase\ Evento\ y\ Persona\r\n
+comment2.params=p_evento\ p_persona\ unArchivo
+comment2.target=void\ grabarInvitacion(Evento,\ Persona,\ java.io.DataOutputStream)
+comment2.text=\r\n\ Metodo\ que\ recibe\ datos\ para\ guardarlos\ en\ un\ archivo\r\n\ @param\ Recibed\ datos\ de\ la\ clase\ Administracion,\ y\ contene\ datos\ de\ la\ clase\ Evento,\ Persona\ y\ DataOutStream\ con\r\n\ datos\ sobre\ el\ archivo\ que\ se\ utilzara\ para\ grabar\ la\ Invitarcion\r\n
+numComments=3
