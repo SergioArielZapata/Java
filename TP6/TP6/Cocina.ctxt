@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Cocina
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ N\u00B0\ 8\r\n\ \r\n\ @author\ (Sergio\ Ariel\ Zapata)\r\n\ @version\ (6.8)\r\n
+comment1.params=p_marca\ p_precio\ p_stock\ p_hornallas\ p_calorias\ p_dimensiones
+comment1.target=Cocina(java.lang.String,\ float,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Contructor\ para\ objestos\ de\ la\ clase\ Cocina\r\n
+comment2.params=p_hornallas
+comment2.target=void\ setHornallas(int)
+comment3.params=p_calorias
+comment3.target=void\ setCalorias(int)
+comment4.params=p_dimensiones
+comment4.target=void\ setDimensiones(java.lang.String)
+comment5.params=
+comment5.target=int\ getHornallas()
+comment6.params=
+comment6.target=int\ getCalorias()
+comment7.params=
+comment7.target=java.lang.String\ getDimensiones()
+comment8.params=
+comment8.target=void\ imprimir()
+comment8.text=\r\n\ Metodo\ para\ mostrar\ los\ datos\ comunes\ a\ todos\ los\ artefactos\ y\ debe\ imprimir\ los\ datos\ particulares\r\n
+comment9.params=p_cuotas\ p_intereses
+comment9.target=float\ creditoConAdicional(int,\ float)
+comment9.text=\r\n\ Metodo\ que\ seg\u00FAn\ el\ artefacto,\ el\ valor\ de\ la\ cuota\ podr\u00E1\ tener\ un\ c\u00E1lculo\ adicional\r\n\ @param\ p_cuotas,\ p_intereses\r\n\ @return\ retorna\ un\ valor\ del\ tipo\ float\r\n
+numComments=10

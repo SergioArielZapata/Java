@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Heladera
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ N\u00B0\ 8\r\n\ \r\n\ @uthor\ (Sergio\ Ariel\ Zapata)\r\n\ @version\ (6.8)\r\n
+comment1.params=p_marca\ p_precio\ p_stock\ p_pies\ p_puertas\ p_compresor
+comment1.target=Heladera(java.lang.String,\ float,\ int,\ int,\ int,\ boolean)
+comment1.text=\r\n\ Contructor\ para\ objetos\ de\ la\ clase\ Heladera\r\n
+comment2.params=p_pies
+comment2.target=void\ setPies(int)
+comment3.params=p_puertas
+comment3.target=void\ setPuertas(int)
+comment4.params=p_compresor
+comment4.target=void\ setCompresor(boolean)
+comment5.params=
+comment5.target=int\ getPies()
+comment6.params=
+comment6.target=int\ getPuertas()
+comment7.params=
+comment7.target=boolean\ getCompresor()
+comment8.params=
+comment8.target=void\ imprimir()
+comment8.text=\r\n\ Metodo\ que\ muestra\ los\ datos\ comunes\ a\ todos\ los\ artefactos\ y\ debe\ imprimir\ los\ datos\ particulares\r\n
+comment9.params=p_cuotas\ p_intereses
+comment9.target=float\ creditoConAdicional(int,\ float)
+comment9.text=\r\n\ Metodo\ que\ Seg\u00FAn\ el\ artefacto,\ el\ valor\ de\ la\ cuota\ podr\u00E1\ tener\ un\ c\u00E1lculo\ adicional\:\r\n\ una\ heladera,\ si\ posee\ compresor,\ pagar\u00E1\ $50\ adicionales\ por\ cada\ cuota\ en\ concepto\ de\ un\ seguro\r\n\ @param\ p_cuotas,\ p_intereses\r\n\ @return\ retorna\ un\ simbolo\ del\ tipo\ float\r\n
+numComments=10

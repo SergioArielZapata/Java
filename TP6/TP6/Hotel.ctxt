@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Hotel
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ N\u00B0\ 9\r\n\ \r\n\ @author\ (Sergio\ Ariel\ Zapata)\r\n\ @version\ (6.9)\r\n
+comment1.params=p_nombre\ p_precioBase\ p_dias\ p_tipo
+comment1.target=Hotel(java.lang.String,\ double,\ int,\ java.lang.String)
+comment1.text=\r\n\ Contructor\ para\ objetos\ de\ la\ clase\ Hotel\r\n
+comment2.params=p_tipo
+comment2.target=void\ setTipoHabitacion(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTipoHabitacion()
+comment4.params=
+comment4.target=double\ costo()
+comment4.text=\r\n\ Metodos\ para\ calcualar\ el\ costo\ del\ alquiler\ en\ funcion\ del\ precio\ y\ la\ cantidad\ de\ dias\ de\ alquiler\r\n\ al\ costo\ base\ se\ debe\ agregar\ $\ 20\ si\ el\ tipo\ de\ habitacion\ es\ \ \u201CSingle\u201D\ o\ $35\ si\ es\ habitaci\u00F3n\ \u201CDoble\u201D,\ por\ la\ cantidad\ de\ d\u00EDas\ alojado.\r\n
+comment5.params=p_alojamiento
+comment5.target=int\ contar(java.lang.String)
+comment5.text=\r\n\ Metodo\ que\ permite\ contar\ un\ alojamiento\ mas\ en\ cada\ tipo\ de\ alojamiento,\ que\ al\ recorrer\ el\ Array\r\n\ se\ pueda\ contar\ la\ cantidad\ de\ alquileres\ de\ un\ tipo\ determinado\ (hotel\ o\ caba\u00F1a)\ que\ se\ ingresa\ como\ parametro\r\n\ @param\ p_alojamiento\r\n\ @return\ retorna\ un\ simbolo\ del\ tipo\ int\r\n
+comment6.params=
+comment6.target=void\ liquidar()
+comment6.text=\r\n\ Metodo\ que\ devuelve\ la\ liquidacion\ de\ la\ estadia\ \r\n
+numComments=7

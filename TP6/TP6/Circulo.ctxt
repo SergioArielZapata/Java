@@ -1,0 +1,33 @@
+#BlueJ class context
+comment0.target=Circulo
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 3\ -\ Ejercicio\ N\u00B0\ 3\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ N\u00B0\ 4\r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (3.3.6.4)\r\n
+comment1.params=p_centro\ p_sEjeMayor\ p_sEjeMenor\ p_radio
+comment1.target=Circulo(Punto,\ double,\ double,\ double)
+comment1.text=\r\n\ Contructor\ para\ objetos\ de\ la\ clase\ Circuito\r\n
+comment10.params=otroCirculo
+comment10.target=Circulo\ elMayor(Circulo)
+comment10.text=\r\n\ Metodo\ que\ calcula\ el\ circulo\ mayor\ calculando\ sus\ superficies\r\n\ @return\ Retorna\ un\ valor\ del\ tipo\ Circulo\r\n
+comment2.params=p_radio
+comment2.target=void\ setRadio(double)
+comment2.text=\r\n\r\n\ Constructor\ sobrecargado\ de\ la\ clase\ Circulo\r\n\ crea\ un\ circulo\ con\ radio\ 0,\ el\ origen\ esta\ en\ el\ punto(0,\ 0)\r\n\r\n\ \ \ \ public\ Circulo(){\r\n\ \ \ \ \ \ \ \ //Inicializacion\ de\ variables\ de\ instancias\r\n\ \ \ \ \ \ \ \ this.setRadio(0.0);\r\n\ \ \ \ \ \ \ \ this.setCentro(new\ Punto(0.0\ ,\ 0.0));\r\n}
+comment3.params=
+comment3.target=double\ getRadio()
+comment3.text=private\ void\ setCentro(Punto\ p_centro){\r\n\ \ \ \ \ \ \ \ this.centro\ \=\ p_centro;\r\n}
+comment4.params=
+comment4.target=java.lang.String\ nombreFigura()
+comment4.text=\r\n\ Metodo\ que\ devuelve\ el\ nombre\ de\ la\ figura\r\n\ @return\ retorna\ un\ simbolo\ del\ tipo\ String\r\n
+comment5.params=p_dx\ p_dy
+comment5.target=void\ desplazar(double,\ double)
+comment5.text=\r\n\ Metodo\ para\ desplazar\ el\ circulo,\ sin\ cambiar\ dimensiones,\ transladando\ el\ centro\ a\ otra\ posicion\r\n\ se\ debe\ despalzar\ el\ objeto\ colaborador\ Punto\ que\ representa\ al\ centro\r\n
+comment6.params=
+comment6.target=void\ caracteristicas()
+comment7.params=
+comment7.target=double\ perimetro()
+comment7.text=\r\n\ Metodo\ que\ permite\ calcular\ el\ perimetro\ de\ un\ circulo\r\n
+comment8.params=
+comment8.target=double\ superficie()
+comment8.text=\r\n\ Metodo\ que\ permite\ calcular\ la\ superficie\ de\ un\ circulo\r\n
+comment9.params=otroCirculo
+comment9.target=double\ distanciaA(Circulo)
+comment9.text=\r\n\ Metodo\ que\ permite\ calcular\ la\ distancia\ entre\ dos\ circulos,\ que\ es\ la\ distancia\r\n\ entre\ sus\ centros\r\n
+numComments=11

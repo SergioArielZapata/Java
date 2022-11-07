@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Gerencia
+comment1.params=p_nombre
+comment1.target=Gerencia(java.lang.String)
+comment1.text=\r\n\ Contructor\ para\ objetos\ de\ la\ clase\ Gerencia\r\n
+comment10.params=
+comment10.target=void\ mostrarLiquidacion()
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=p_alojamientosAlquilados
+comment3.target=void\ setAlojamientosAlquilados(java.util.ArrayList)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=java.util.ArrayList\ getAlojamientosAlquilados()
+comment6.params=p_alojamiento
+comment6.target=boolean\ agregarAlojamientos(Alojamiento)
+comment6.text=\r\n\ Metodos\ que\ permite\ agregar\ y\ quitar\ un\ alojamiento\ al\ Array\r\n\ @param\ p_alojamiento\r\n\ return\ retorna\ un\ simbolo\ del\ tipo\ boolean\r\n
+comment7.params=p_alojamiento
+comment7.target=boolean\ quitarAlojamientos(Alojamiento)
+comment8.params=p_tipoAlojamiento
+comment8.target=int\ contarAlojamiento(java.lang.String)
+comment8.text=\r\n\ Metodo\ que\ permite\ contar\ un\ tipo\ de\ alojamiento\ en\ particular\r\n\ @param\ p_tipoAlojamiento\r\n\ @return\ retorna\ un\ simbolo\ del\ tipo\ int\r\n
+comment9.params=
+comment9.target=void\ liquidar()
+comment9.text=\r\n\ Imprime\ los\ detalles\ del\ la\ gerencia\r\n
+numComments=11

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Caba\u00F1a
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ N\u00B0\ 9\r\n\ \r\n\ @author\ (Sergio\ Ariel\ Zapata)\r\n\ @version\ (6.9)\r\n
+comment1.params=p_nombre\ p_precioBase\ p_dias\ p_nroHabitaciones
+comment1.target=Caba\u00F1a(java.lang.String,\ double,\ int,\ int)
+comment1.text=\r\n\ Contructor\ para\ objetos\ de\ la\ clase\ Caba\u00F1a\r\n
+comment2.params=p_nroHabitaciones
+comment2.target=void\ setNroHabitaciones(int)
+comment3.params=
+comment3.target=int\ getNroHabitaciones()
+comment4.params=
+comment4.target=double\ costo()
+comment4.text=\r\n\ Metodo\ que\ calcula\ el\ costo\ del\ alquiler\ en\ funci\u00F3n\ del\ precio\ base\ y\ la\ cantidad\ de\ d\u00EDas\ de\ alquiler\r\n\ En\ el\ caso\ particular\ de\ las\ caba\u00F1as,\ al\ costo\ calculado\ para\ el\ alojamiento\ se\ debe\ agregar\ $30\ por\ d\u00EDa\ por\ cada\ habitaci\u00F3n\ que\ tenga\ la\ caba\u00F1a.\ \r\n
+comment5.params=p_alojamiento
+comment5.target=int\ contar(java.lang.String)
+comment5.text=\r\n\ Metodo\ para\ contar\ alojamientos,\ por\ cada\ tipo\ de\ alojamieto\ en\ particular\r\n\ se\ puede\ contar\ la\ cantidad\ de\ alquileres\ de\ un\ tipo\ determinado\ que\ se\ ingrese\ por\ parametro\r\n\ @param\ p_alojamiento\r\n\ @return\ retorna\ un\ simbolo\ del\ tipo\ int\ \ \ \ \r\n
+comment6.params=
+comment6.target=void\ liquidar()
+comment6.text=\r\n\ Metodo\ que\ devuelve\ la\ liquidacion\ de\ la\ estadia\ \r\n
+numComments=7

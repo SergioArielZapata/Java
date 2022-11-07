@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=CuentaCorriente
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 3\ -\ Ejercicio\ 7\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ 6\r\n\ \r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (3.7.6.6)\r\n
+comment1.params=p_nroCuenta\ p_titular
+comment1.target=CuentaCorriente(int,\ Persona)
+comment1.text=\r\n\ Constructor\ de\ objartos\ para\ la\ clase\ CuentaCorriente\r\n
+comment10.params=
+comment10.target=void\ mostrar()
+comment10.text=\r\n\ Metodo\ que\ muestra\ por\ pantalla\ la\ salida\ impresa\r\n
+comment2.params=p_nroCuenta\ p_saldo\ p_titular
+comment2.target=CuentaCorriente(int,\ double,\ Persona)
+comment2.text=\r\n\ Constructor\ sorecargado\ de\ objetos\ para\ la\ clase\ CuentaCorriente\r\n
+comment3.params=p_limite
+comment3.target=void\ setLimiteDescubierto(double)
+comment3.text=private\ void\ setNroCuenta(int\ p_nroCuenta){\r\n\ \ \ \ \ \ \ this.nroCuenta\ \=\ p_nroCuenta;\r\n\ \ \ }\r\n\ \ \ private\ void\ setTitular(Persona\ p_titular){\r\n\ \ \ \ \ \ \ this.titular\ \=\ p_titular;\r\n\ \ \ }\r\n\ \ \ private\ void\ setSaldo(double\ p_Saldo){\r\n\ \ \ \ \ \ \ this.saldo\ \=\ p_Saldo;\r\n}
+comment4.params=
+comment4.target=double\ getLimiteDescubierto()
+comment4.text=public\ int\ getNroCuenta(){\r\n\ \ \ \ \ \ \ return\ this.nroCuenta;\r\n\ \ \ }\r\n\ \ \ public\ double\ getSaldo(){\r\n\ \ \ \ \ \ \ return\ this.saldo;\r\n\ \ \ }\r\n\ \ \ public\ Persona\ getTitular(){\r\n\ \ \ \ \ \ \ return\ this.titular;\r\n}
+comment5.params=p_importe
+comment5.target=boolean\ puedeExtraer(double)
+comment5.text=\r\n\ Metodo\ que\ devuelve\ true\ si\ el\ importe\ retirar\ no\ supera\ el\ saldo\ limite\ de\ descubirte\r\n\ @param\ recibe\ un\ valor\ double\ como\ parametro\r\n\ @return\ retorna\ un\ valor\ del\ tipo\ boolean\r\n
+comment6.params=p_importe
+comment6.target=void\ extraccion(double)
+comment6.text=\r\n\ Metodo\ que\ realiza\ la\ extraccion\ a\ la\ cuenta\ corriente\r\n\ @param\ recibe\ un\ valor\ double\ como\ parametro\r\n\ @return\ retorna\ un\ valor\ del\ tipo\ double\r\n
+comment7.params=p_importe
+comment7.target=boolean\ extraer(double)
+comment7.text=\r\n\ Metodo\ habilita\ o\ no\ la\ extraccion\ y\ luego\ informa\ el\ motivo\ de\ si\ el\ resultado\ es\ negativo\r\n\ @param\ recibe\ un\ valor\ del\ tipo\ double\r\n
+comment8.params=p_importe
+comment8.target=double\ depositar(double)
+comment8.text=\r\n\ Metodo\ que\ recibe\ un\ monto\ del\ tipo\ double\ y\ la\ asigna\ a\ la\ cuenta\ coriente\r\n\ @param\ recibe\ un\ valor\ del\ tipo\ double\r\n
+comment9.params=p_importe
+comment9.target=java.lang.String\ xQNoPuedoExtraer(double)
+comment9.text=\r\n\ Metodo\ que\ devuelve\ un\ mensaje\ del\ por\ que\ no\ se\ puede\ hacer\ la\ extraccion\r\n\ @return\ retorna\ un\ simbolo\ del\ tipo\ String\r\n
+numComments=11

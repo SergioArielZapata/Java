@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=CajaDeAhorro
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 3\ -\ Ejercicio\ N\u00B0\ 7\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ N\u00B0\ 6\r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (3.7.6.6)\r\n
+comment1.params=p_nroCuenta\ p_titular
+comment1.target=CajaDeAhorro(int,\ Persona)
+comment1.text=\r\n\ Constructor\ de\ objetos\ para\ la\ clase\ CajaDeAhorro\r\n
+comment10.params=
+comment10.target=void\ mostrar()
+comment10.text=\r\n\ Metodo\ que\ muestra\ la\ salida\ impresa\ por\ pantalla\r\n
+comment2.params=p_nroCuenta\ p_titular\ p_saldo
+comment2.target=CajaDeAhorro(int,\ Persona,\ double)
+comment2.text=\r\n\ Constructor\ sobrecargado\ de\ objetos\ para\ la\ clase\ CajaDeAhorro\r\n
+comment3.params=p_extracciones
+comment3.target=void\ setExtraccionesPosibles(int)
+comment3.text=private\ void\ setNroCuenta(int\ p_nroCuenta){\r\n\ \ \ \ \ \ \ \ this.nroCuenta\ \=\ p_nroCuenta;\r\n\ \ \ \ }\r\n\ \ \ \ private\ void\ setSaldo(double\ p_saldo){\r\n\ \ \ \ \ \ \ \ this.saldo\ \=\ p_saldo;\r\n\ \ \ \ }\r\n\ \ \ \ private\ void\ setTitular(Persona\ p_titular){\r\n\ \ \ \ \ \ \ \ this.titular\ \=\ p_titular;\r\n}
+comment4.params=
+comment4.target=int\ getExtraccionesPosibles()
+comment4.text=public\ int\ getNroCuenta(){\r\n\ \ \ \ \ \ \ \ return\ this.nroCuenta;\r\n\ \ \ \ }\r\n\ \ \ \ public\ double\ getSaldo(){\r\n\ \ \ \ \ \ \ \ return\ this.saldo;\r\n\ \ \ \ }\r\n\ \ \ \ public\ Persona\ getTitular(){\r\n\ \ \ \ \ \ \ \ return\ this.titular;\r\n}
+comment5.params=p_importe
+comment5.target=boolean\ puedeExtraer(double)
+comment5.text=\r\n\ Metodo\ que\ devuelve\ un\ valor\ true\ si\ el\ importe\ a\ retir\ no\ supera\ el\ saldo\ disponible\ y\ si\ no\ uso\ todas\ las\ extracciones\ posibles\r\n\ @param\ recibe\ un\ valor\ del\ tipo\ double\r\n\ @return\ retorna\ un\ valor\ del\ tipo\ boolean\r\n
+comment6.params=p_importe
+comment6.target=void\ extraccion(double)
+comment6.text=\r\n\ Metodo\ que\ realiza\ la\ extraccion\ y\ descuenta\ en\ 1\ el\ numero\ de\ extracciones\ posibles\r\n\ @param\ recibe\ un\ valor\ del\ tipo\ double\r\n
+comment7.params=p_importe
+comment7.target=boolean\ extraer(double)
+comment7.text=\r\n\ Metodo\ que\ determina\ si\ cumple\ las\ condiciones\ de\ extraccion,\ si\ no\ puede\ informara\ el\ motivo\r\n\ @param\ recibe\ un\ valor\ del\ tipo\ double\r\n\ @return\ retorna\ un\ simbolo\ del\ tipo\ boolean\r\n
+comment8.params=p_importe
+comment8.target=double\ depositar(double)
+comment8.text=\r\n\ Metodo\ que\ agrega\ el\ importe\ recibido\ al\ saldo\ actual\r\n\ @param\ recibe\ un\ valor\ del\ tipo\ double\r\n\ @return\ retorna\ un\ simbolo\ del\ tipo\ double\r\n
+comment9.params=p_importe
+comment9.target=java.lang.String\ xQNoPuedoExtraer(double)
+comment9.text=\r\n\ Metodo\ que\ devuelve\ un\ el\ mensaje\ del\ porque\ no\ puede\ extraer\r\n
+numComments=11

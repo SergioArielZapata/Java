@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Individuo
+comment1.params=p_nombre\ p_fecha\ p_persona
+comment1.target=Individuo(java.lang.String,\ java.util.Calendar,\ Persona)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ Individuo\r\n
+comment2.params=p_persona
+comment2.target=void\ setPersona(Persona)
+comment3.params=
+comment3.target=Persona\ getPersona()
+comment4.params=
+comment4.target=double\ entrada()
+comment4.text=\r\n\ Meodo\ que\ devuelve\ el\ valor\ de\ la\ entrada\r\n\ @return\ retorn\ a\ un\ simbolo\ del\ tipo\ double\r\n
+comment5.params=
+comment5.target=void\ mostrar()
+comment5.text=\r\n\ Metodo\ que\ devuelve\ un\ formato\ de\ impresion\ de\ individuo\r\n
+comment6.params=p_fecha\ p_visitante
+comment6.target=void\ listarPorFecha(java.util.Calendar,\ java.lang.String)
+comment6.text=\r\n\ Metodo\ que\ devuelve\ un\ listado\ en\ una\ fecha\ en\ particular\ de\ cada\ tipo\ de\ vis\r\n\ @param\ p_fecha,\ p_visitante\r\n
+comment7.params=
+comment7.target=java.lang.String\ tipoVisitante()
+comment7.text=\r\n\ Metodo\ que\ determian\ el\ tipo\ de\ visitante\r\n
+numComments=8

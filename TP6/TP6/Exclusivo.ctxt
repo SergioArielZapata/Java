@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Exclusivo
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ N\u00B0\ 5\r\n\ \r\n\ @author\ (Sergio\ Ariel\ Zapata)\r\n\ @version\ (6.5)\r\n
+comment1.params=p_nombreCargo\ p_sueldo\ p_anio\ p_horas\ p_horasInvestigacion\ p_horasExtension
+comment1.target=Exclusivo(java.lang.String,\ double,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Contructor\ para\ objetos\ de\ la\ clase\ Exclusivo\r\n
+comment2.params=p_horasInvestigacion
+comment2.target=void\ setHorasDeInvestigacion(int)
+comment3.params=p_horasExtension
+comment3.target=void\ setHorasDeExtension(int)
+comment4.params=
+comment4.target=int\ getHorasDeInvestigacion()
+comment5.params=
+comment5.target=int\ getHorasDeExtension()
+comment6.params=
+comment6.target=void\ mostrarCargo()
+comment6.text=\r\n\ Metodo\ que\ redefine\ el\ metodo\ mostrar\ de\ la\ super\ clase\ para\ mostrar\ mas\ datos\r\n
+numComments=7

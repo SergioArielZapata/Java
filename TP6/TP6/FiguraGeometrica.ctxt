@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FiguraGeometrica
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ N\u00B0\ 7\r\n\ \r\n\ @author\ (Sergio\ Ariel\ Zapata)\r\n\ @version\ (6.7)\r\n
+comment1.params=p_origen
+comment1.target=FiguraGeometrica(Punto)
+comment1.text=\r\n\ Constructor\ para\ el\ objeto\ de\ la\ clase\ FiguraGeometrica\r\n
+comment2.params=p_origen
+comment2.target=void\ setOrigen(Punto)
+comment3.params=
+comment3.target=Punto\ getOrigen()
+comment4.params=
+comment4.target=java.lang.String\ nombreFigura()
+comment5.params=
+comment5.target=double\ superficie()
+comment6.params=
+comment6.target=void\ mostrarSuperficie()
+numComments=7

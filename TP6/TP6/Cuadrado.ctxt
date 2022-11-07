@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cuadrado
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 6\ -\ Ejercicio\ N\u00B0\ 3\r\n\ \r\n\ @author\ (Sergio\ Ariel\ Zapata)\r\n\ @version\ (6.3)\r\n
+comment1.params=p_origen\ p_ancho\ p_alto\ p_lado
+comment1.target=Cuadrado(Punto,\ double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ Cuadrado\r\n
+comment2.params=p_lado
+comment2.target=void\ setLado(double)
+comment3.params=
+comment3.target=double\ getLado()
+comment4.params=
+comment4.target=java.lang.String\ nombreFigura()
+comment4.text=\r\n\ Metodo\ que\ permite\ devolver\ el\ nombre\ de\ la\ figura\r\n\ @return\ retorna\ un\ simbolo\ del\ tipo\ String\r\n
+comment5.params=
+comment5.target=void\ caracteristicas()
+comment5.text=\r\n\ Metodo\ que\ devuelve\ las\ caracteristicas\ de\ la\ figura\r\n
+numComments=6
