@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=OrdenVector
+comment0.text=\r\n\ Crear\ una\ clase\ denominada\ OrdenVector,\ que\ permita\ ingresar\ por\ teclado\ (Scanner)\ 4\ elementos\ dobles,\ y\r\nalmacenarlos\ en\ un\ array.\ Determinar\ el\ menor\ elemento\ y\ mostrarlo.\ Ordenar\ los\ elementos\ del\ vector\ de\r\nmenor\ a\ mayor.\ Mostrar\ los\ elementos\ ordenados,\ separados\ por\ un\ tabulador.\ Usar\ sentencia\ FOR\ para\ el\r\ningreso\ de\ datos.\ Utilizar\ m\u00E9todo\ de\ la\ Burbuja.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (1.9)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

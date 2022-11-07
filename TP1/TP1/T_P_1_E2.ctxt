@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=T_P_1_E2
+comment0.text=\r\n\ Crear\ una\ clase\ que\ contenga\ el\ m\u00E9todo\ main(),\ en\ el\ que\ se\ determinen\ y\ muestren\ por\ pantalla\ los\ n\u00FAmeros\r\nm\u00FAltiplos\ de\ 4\ a\ partir\ de\ 42\ y\ hasta\ el\ 150\ inclusive.\ Usar\ la\ sentencia\ de\ bucle\ m\u00E1s\ apropiada.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (1.2)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

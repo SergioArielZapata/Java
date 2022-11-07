@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=T_P_1_E1
+comment0.text=\r\n\ Crear\ una\ clase\ que\ contenga\ el\ m\u00E9todo\ main().\ En\ \u00E9l\ declarar\ las\ variables\ a\ y\ b\ de\ tipo\ entero.\r\nInicializarlas\ con\ los\ valores\ 8\ y\ 3\ respectivamente.\ Realizar\ y\ mostrar\ por\ pantalla\ las\ siguientes\r\noperaciones\ aritm\u00E9ticas\:\ suma,\ resta,\ multiplicaci\u00F3n,\ divisi\u00F3n\ y\ resto.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=OperarVector
+comment0.text=\r\n\ Crear\ una\ clase\ denominada\ OperarVector\ que\ permita\ ingresar\ por\ teclado\ (Scanner)\ 5\ notas\ de\ alumnos,\ las\r\nque\ ser\u00E1n\ almacenadas\ en\ un\ array\ de\ enteros.\ Calcular\ el\ promedio\ y\ determinar\ la\ mayor\ nota.\ El\ promedio\r\ndebe\ permitir\ resultado\ con\ decimales\ (aplicar\ cast\ a\ los\ elementos\ enteros\ cuando\ sea\ necesario\ para\ obtener\r\ndicho\ resultado).\ Mostrar\ los\ elementos\ ingresados,\ separados\ por\ un\ tabulador.\ Mostrar\ el\ promedio\ y\ la\r\nmayor\ nota\ con\ el\ mensaje\ respectivo.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (1.8)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

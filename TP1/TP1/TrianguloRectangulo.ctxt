@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TrianguloRectangulo
+comment0.text=\r\n\ Crear\ una\ clase\ denominada\ TrianguloRectangulo,\ que\ contenga\ el\ m\u00E9todo\ main(),\ en\ el\ que\ se\ determine\ si\r\nun\ triangulo\ es\ rect\u00E1ngulo\ (Teorema\ de\ Pit\u00E1goras\ \uF0E0\ h2\ \=\ cateto12\ +\ cateto22).\ Los\ lados\ se\ deben\ ingresar\ por\r\nteclado,\ utilizando\ el\ argumento\ del\ main().\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (1.6)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

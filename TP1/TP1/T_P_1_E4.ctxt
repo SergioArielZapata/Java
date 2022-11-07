@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=T_P_1_E4
+comment0.text=\r\n\ Crear\ una\ clase\ que\ contenga\ el\ m\u00E9todo\ main(),\ declarar\ las\ variables\ a,\ b\ y\ c\ de\ tipo\ double,\ que\r\ncorresponden\ a\ los\ lados\ de\ un\ tri\u00E1ngulo.\ Los\ valores\ deben\ ser\ ingresados\ por\ teclado\ como\ argumentos\ del\r\nm\u00E9todo\ main().\ Calcular\ y\ mostrar\ el\ semiper\u00EDmetro\ y\ el\ \u00E1rea\ del\ tri\u00E1ngulo\ con\ las\ siguientes\ f\u00F3rmulas\:\r\nsemiperimetro\=\ (a+b+c)/2\r\narea\=\ ra\u00EDz\ cuadrada(semiperimetro*(semiperimetro-a)*(semiperimetro-b)*(semiperimetro-c))\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (1.4)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
