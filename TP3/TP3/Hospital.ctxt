@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Hospital
+comment0.text=\r\n\ Trabajo\ Practico\ N\u00B0\ 3\ -\ Ejercicio\ N\u00B0\ 8\r\n\ \r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (3.8)\r\n
+comment1.params=p_nomHospital\ p_nomDirector\ p_paciente
+comment1.target=Hospital(java.lang.String,\ java.lang.String,\ Paciente)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Hospital\r\n
+comment2.params=p_nomHospital
+comment2.target=void\ setNombreHospital(java.lang.String)
+comment3.params=p_nomDirector
+comment3.target=void\ setNombreDirector(java.lang.String)
+comment4.params=p_paciente
+comment4.target=void\ setPaciente(Paciente)
+comment5.params=
+comment5.target=java.lang.String\ getNombreHospital()
+comment6.params=
+comment6.target=java.lang.String\ getNombreDirector()
+comment7.params=
+comment7.target=Paciente\ getPaciente()
+comment8.params=p_paciente
+comment8.target=void\ consultaDatosFiliatorios(Paciente)
+comment8.text=\r\n\ Metodo\ que\ muestra\ los\ datos\ del\ Paciente\r\n\ @param\ recibe\ datos\ de\ la\ clase\ Paciente\r\n
+numComments=9

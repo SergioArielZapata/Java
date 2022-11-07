@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GestionHospital
+comment0.text=\r\n\ Ejecutable\ de\ las\ clases\ Localidad,\ Paciente\ y\ Hospital\r\n\ \r\n\ @author\ (Sergio\ Ariel\ Zapata)\ \r\n\ @version\ (3.8)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
